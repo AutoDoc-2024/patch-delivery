@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "patches": [
+    {
+      "file": "package\\utils.py",
+      "url": "remote_server\\package\\utils.py"
+    }
+  ]
+}
