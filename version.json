@@ -2,12 +2,12 @@
   "version": "1.0.2",
   "patches": [
     {
-      "file": "N/A\\jwt_encoder.py",
-      "url": "https://github.com/AutoDoc-2024/patch-delivary/releases/download/1.0.2/C.Users.PRANIT.1.AppData.Local.Temp.tmpwi27ghp8.py"
+      "file": "utils\\jwt_encoder.py",
+      "url": "https://github.com/AutoDoc-2024/patch-delivary/releases/download/1.0.2/C.Users.PRANIT.1.AppData.Local.Temp.tmphpukeo1z.py"
     },
     {
-      "file": "N/A\\plan.html",
-      "url": "https://github.com/AutoDoc-2024/patch-delivary/releases/download/1.0.2/C.Users.PRANIT.1.AppData.Local.Temp.tmp8d6aajkl.html"
+      "file": "api\\plan.html",
+      "url": "https://github.com/AutoDoc-2024/patch-delivary/releases/download/1.0.2/C.Users.PRANIT.1.AppData.Local.Temp.tmprs90_9zf.html"
     }
   ]
 }
