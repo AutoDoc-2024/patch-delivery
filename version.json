@@ -1,9 +1,9 @@
 {
-  "version": "0.0.2",
+  "version": "1.0.1",
   "patches": [
     {
-      "file": "ui\\components\\printer.cp313-win_amd64.pyd",
-      "url": "https://github.com/AutoDoc-2024/patch-delivary/releases/download/0.0.2/printer.cp313-win_amd64.pyd"
+      "file": "utills\\\\\\reprint.cp313-win_amd64.pyd",
+      "url": "https://github.com/AutoDoc-2024/patch-delivary/releases/download/1.0.1/tmpn85p0qvu.pyd"
     }
   ]
 }
