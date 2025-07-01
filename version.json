@@ -1,13 +1,9 @@
 {
-  "version": "1.0.2",
+  "version": "0.0.2",
   "patches": [
     {
-      "file": "utils\\jwt_encoder.py",
-      "url": "https://github.com/AutoDoc-2024/patch-delivary/releases/download/1.0.2/C.Users.PRANIT.1.AppData.Local.Temp.tmphpukeo1z.py"
-    },
-    {
-      "file": "api\\plan.html",
-      "url": "https://github.com/AutoDoc-2024/patch-delivary/releases/download/1.0.2/C.Users.PRANIT.1.AppData.Local.Temp.tmprs90_9zf.html"
+      "file": "ui\\components\\printer.cp313-win_amd64.pyd",
+      "url": "https://github.com/AutoDoc-2024/patch-delivary/releases/download/0.0.2/printer.cp313-win_amd64.pyd"
     }
   ]
 }
