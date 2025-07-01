@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "patches": [
     {
-      "file": "ui\\\\components\\\\pages\\setting.cp313-win_amd64.pyd",
-      "url": "https://github.com/AutoDoc-2024/patch-delivary/releases/download/1.0.1/tmpg5uwqxxl.pyd"
+      "file": "ui\\components\\pages\\setting.cp313-win_amd64.pyd",
+      "url": "https://github.com/AutoDoc-2024/patch-delivary/releases/download/1.0.2/tmpyi1fa3k0.pyd"
     }
   ]
 }
