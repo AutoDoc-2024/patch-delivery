@@ -2,7 +2,7 @@
   "version": "0.0.1",
   "patches": [
     {
-      "file": "utills\\diagram-export-26-05-2025-15_30_05.png",
+      "file": "utils\\diagram-export-26-05-2025-15_30_05.png",
       "url": "https://github.com/AutoDoc-2024/patch-delivary/releases/download/0.0.2/diagram-export-26-05-2025-15_30_05.png"
     }
   ]
