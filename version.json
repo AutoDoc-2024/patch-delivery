@@ -1,9 +1,21 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.2",
   "patches": [
     {
-      "file": "ui\\components\\dashboard.cp313-win_amd64.pyd",
-      "url": "https://github.com/AutoDoc-2024/patch-delivary/releases/download/0.0.3/dashboard.cp313-win_amd64.pyd"
+      "file": "ui\\components\\CustomeCharts.cp313-win_amd64.pyd",
+      "url": "https://github.com/AutoDoc-2024/patch-delivery/releases/download/0.0.2/CustomeCharts.cp313-win_amd64.pyd"
+    },
+    {
+      "file": ".\\main.cp313-win_amd64.pyd",
+      "url": "https://github.com/AutoDoc-2024/patch-delivery/releases/download/0.0.2/main.cp313-win_amd64.pyd"
+    },
+    {
+      "file": "utils\\printing.cp313-win_amd64.pyd",
+      "url": "https://github.com/AutoDoc-2024/patch-delivery/releases/download/0.0.2/printing.cp313-win_amd64.pyd"
+    },
+    {
+      "file": "ui\\components\\RowWidgets.cp313-win_amd64.pyd",
+      "url": "https://github.com/AutoDoc-2024/patch-delivery/releases/download/0.0.2/RowWidgets.cp313-win_amd64.pyd"
     }
   ]
 }
