@@ -1,21 +1,33 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "patches": [
     {
-      "file": "ui\\components\\CustomeCharts.cp313-win_amd64.pyd",
-      "url": "https://github.com/AutoDoc-2024/patch-delivery/releases/download/0.0.2/CustomeCharts.cp313-win_amd64.pyd"
+      "file": "utils\\file_ops.cp313-win_amd64.pyd",
+      "url": "https://github.com/AutoDoc-2024/patch-delivery/releases/download/0.0.3/file_ops.cp313-win_amd64.pyd"
+    },
+    {
+      "file": "utils\\helper.cp313-win_amd64.pyd",
+      "url": "https://github.com/AutoDoc-2024/patch-delivery/releases/download/0.0.3/helper.cp313-win_amd64.pyd"
+    },
+    {
+      "file": "utils\\kafka_streaming.cp313-win_amd64.pyd",
+      "url": "https://github.com/AutoDoc-2024/patch-delivery/releases/download/0.0.3/kafka_streaming.cp313-win_amd64.pyd"
     },
     {
       "file": ".\\main.cp313-win_amd64.pyd",
-      "url": "https://github.com/AutoDoc-2024/patch-delivery/releases/download/0.0.2/main.cp313-win_amd64.pyd"
+      "url": "https://github.com/AutoDoc-2024/patch-delivery/releases/download/0.0.3/main.cp313-win_amd64.pyd"
     },
     {
-      "file": "utils\\printing.cp313-win_amd64.pyd",
-      "url": "https://github.com/AutoDoc-2024/patch-delivery/releases/download/0.0.2/printing.cp313-win_amd64.pyd"
+      "file": "ui\\components\\pages\\printer.cp313-win_amd64.pyd",
+      "url": "https://github.com/AutoDoc-2024/patch-delivery/releases/download/0.0.3/printer.cp313-win_amd64.pyd"
     },
     {
-      "file": "ui\\components\\RowWidgets.cp313-win_amd64.pyd",
-      "url": "https://github.com/AutoDoc-2024/patch-delivery/releases/download/0.0.2/RowWidgets.cp313-win_amd64.pyd"
+      "file": "ui\\components\\pages\\profile.cp313-win_amd64.pyd",
+      "url": "https://github.com/AutoDoc-2024/patch-delivery/releases/download/0.0.3/profile.cp313-win_amd64.pyd"
+    },
+    {
+      "file": "ui\\components\\pages\\setting.cp313-win_amd64.pyd",
+      "url": "https://github.com/AutoDoc-2024/patch-delivery/releases/download/0.0.3/setting.cp313-win_amd64.pyd"
     }
   ]
 }
